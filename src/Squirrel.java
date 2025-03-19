@@ -1,5 +1,5 @@
 public class Squirrel {
-    // Instance variables 
+    // INSTANCE VARIABLES 
 
     boolean alive;
     String name;
@@ -8,7 +8,7 @@ public class Squirrel {
     int age;
 
 
-    // Constructor
+    // CONSTRUCTOR
 
     /**
      * Creates a new Squirrel object.
@@ -26,7 +26,7 @@ public class Squirrel {
     }
 
 
-    // Instance methods
+    // INSTANCE METHODS
 
     public void jump() {
          System.out.println(this.name + " jumps.");
